@@ -1,4 +1,5 @@
 class Dog
+  "I'm a dog"
 end
 
 fido=Dog.new
